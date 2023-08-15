@@ -1,0 +1,18 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #1e293b;
+  text-align: center;
+}
+.emoji {
+  height: 90px;
+  width: 90px;
+  margin-top: auto;
+}

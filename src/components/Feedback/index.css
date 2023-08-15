@@ -1,0 +1,40 @@
+.app-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #ffffff;
+  height: 60%;
+  border: none;
+  border-radius: 10px;
+  padding: 20px;
+  padding-top: 18px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 300px;
+  color: #0f172a;
+  text-align: center;
+}
+.emoji-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 28px;
+}
+.love-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+.loveEmoji {
+  height: 80px;
+  width: 80px;
+}
